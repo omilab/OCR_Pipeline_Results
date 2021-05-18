@@ -22,7 +22,7 @@ Worldwide, large historical newspapers digitization project provide oceans of va
 
 ### *CSV by Article:*
 this folder contains a sub folder for each of the newspapers in our corpus. In each sub folder are to be found a file for each available issue of the newspaper, presented as comma separated values. Each row in the file contains an Article id, headline, and the text. 
-(notice that the OCR of headlines is often problematic and worse that the text of the article).
+(notice that the OCR of headlines is often problematic and of lower quality than that of the text of the article).
 The article ID itself contains important metadata on the article: it starts with the newspaper code and the date of publication, and ends with the issue unique ID and then the serial number of the article in the table of content (for example, "toc_3") which puts it in relation to the other articles in the issue.  
 
 ### *Plain texts:*
