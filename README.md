@@ -7,10 +7,11 @@ Worldwide, large historical newspapers digitization project provide oceans of va
 
 ## The format of the files:
 
-*CSV by Article:*
+### *CSV by Article:*
 this folder contains a sub folder for each of the newspapers in our corpus. In each sub folder are to be found a file for each available issue of the newspaper, presented as comma separated values. Each row in the file contains an Article id, headline, and the text. 
 (notice that the OCR of headlines is often problematic and worse that the text of the article).
 The article ID itself contains important metadata on the article: it starts with the newspaper code and the date of publication, and ends with article id and the number of the article in the table of content (e.g. "toc_3") relative to the other articles in the issue.  
 021-HLB-1874-01-07-PG001-SINGLE-ORIGNAME_100355_toc_1	
 
-
+### *Plain texts:*
+Each newspaper folder contains
