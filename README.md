@@ -29,8 +29,6 @@ The article ID itself contains important metadata on the article: it starts with
 Each newspaper folder contains plain text files, one file represents an entire issue. The naming of the files includes the newspaper code, the date of publication and the issue ID. 
 
 ## License
-<img src="https://github.com/yanirmr/historical_press/blob/master/OCR_Pipeline/images_for_tutorial/CC-BY-SA_icon.svg.png" width="200" height="50" />
-
 The code is licensed under a [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). You are free to:
 * Share — copy and redistribute the material in any medium or format; 
 * Adapt — remix, transform, and build upon the material; 
