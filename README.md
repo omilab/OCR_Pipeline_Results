@@ -1,5 +1,4 @@
-# OCR_Pipeline_Results
-https://www.openu.ac.il/en/omilab
+# A Hebrew 19th century press corpus
 
 We present here a corpus of 19th century Hebrew newspapers which was created at OMILab, The Open Media and Information Lab at the Open University, Israel. 
 [OmiLab’s project on Historical Newspaper Archive Research](https://www.openu.ac.il/en/omilab/pages/historicalnewspaper.aspx) ran in collaboration with the [Historical Jewish Press project](https://web.nli.org.il/sites/JPress/English) of the Tel Aviv University and the National Library of Israel.  [The National Library of Israel (https://web.nli.org.il/sites/nli/english/pages/default.aspx)] provided access to selected image and OCR output files at the back end of JPRESS. 
