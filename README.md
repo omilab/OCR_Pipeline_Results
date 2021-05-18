@@ -1,15 +1,16 @@
 # A Hebrew 19th century press corpus
 
 We present here a corpus of 19th century Hebrew newspapers which was created at OMILab, The Open Media and Information Lab at the Open University, Israel. 
-[OmiLab’s project on Historical Newspaper Archive Research](https://www.openu.ac.il/en/omilab/pages/historicalnewspaper.aspx) ran in collaboration with the [Historical Jewish Press project](https://web.nli.org.il/sites/JPress/English) of the Tel Aviv University and the National Library of Israel.  [The National Library of Israel] (https://web.nli.org.il/sites/nli/english/pages/default.aspx) provided access to selected image and OCR output files at the back end of JPRESS. 
+[OmiLab’s project on Historical Newspaper Archive Research](https://www.openu.ac.il/en/omilab/pages/historicalnewspaper.aspx) ran in collaboration with the [JPRESS - the Historical Jewish Press project](https://web.nli.org.il/sites/JPress/English) of the Tel Aviv University and the National Library of Israel. [The National Library of Israel](https://web.nli.org.il/sites/nli/english/pages/default.aspx) provided access to selected image and OCR output files at the back end of JPRESS. 
 
 Worldwide, large historical newspapers digitization project provide oceans of valuable historical periodical data. Much of this data, however, is available in platforms that provide mediocre OCR, which hinders the application of text analytical methods of distant reading, NLP, NER and various methods of semantic processing. In order to overcome this obstacle we used the platform Transkribus to train a model for historical Hebrew print, improving significantly both line detection and character recognition. In order not to lose the valuable work that was done to analyze the layout and content structure of the newspapers we created an open workflow which migrates legacy segmentation data into the open Page format, on which the improved text recognition technologies can run, and then outputs the data as a TEI-XML encoded and enriched corpus.
 
-The corpus is also indexed and made available  through the [he-story search engine] (https://www.openu.ac.il/he-story/index.html#/)
+#### For more information about the project and the pipeline, see [HOP (Historical OCR Pipeline](https://github.com/omilab/historical_press/tree/master/OCR_Pipeline)
 
-For more information about the project and the pipeline, see 
+#### The corpus is also indexed and made available  through the [he-story search engine] (https://www.openu.ac.il/he-story/index.html#/)
 
-For more information about the Newspapers, browsing and searching of the scanned issues:
+
+#### For more information about the Newspapers, browsing and searching of the scanned issues:
 [The Lebanon⁩ - ⁨הלבנון⁩⁩; מכתב עתי בשפת עבר](https://www.nli.org.il/en/newspapers/hlb)
 [HaCefira⁩ - ⁨הצפירה⁩⁩; מכתב עתי משמיע חדשות](https://www.nli.org.il/en/newspapers/hzf)
 [HaMelitz⁩ - ⁨המליץ⁩⁩; בין עם ישרון והממשלה, בין האמונה וההשכלה](https://www.nli.org.il/en/newspapers/hmz)
